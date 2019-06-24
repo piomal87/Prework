@@ -1,1 +1,3 @@
 króki opis zawartoœci mojego repozytorium
+
+dodaje kolejny akapit do w/w opisu repozytorium
